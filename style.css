@@ -2,14 +2,22 @@ html {
     background-color: black;
 }
 
-body {
+h1, h2, h3, h4, h5, span, p {
     font-family: monospace;
-    padding-left: 1rem;
-    padding-right: 1rem;
 }
 
-p, span, li {
+h1, h2, h3, h4, h5, p, span, li {
     color: white;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+}
+
+
+body {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .services {
