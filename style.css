@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+}
+
+body {
+    font-family: monospace;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+p, span, li {
+    color: white;
+}
+
+.services {
+    margin-top: 2rem;
+}
+
+.links {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.link {
+    color: lightseagreen;
+}
+
+.link-padded {
+    padding-right: 1rem;
+}
